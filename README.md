@@ -8,3 +8,6 @@ Jalankan perintah berikut untuk memulai backend (Laravel):
 
 powershell
 php artisan serve dan npm run dev
+
+
+dan database ada di dalam folder yang huruf kapital

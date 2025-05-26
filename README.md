@@ -10,4 +10,4 @@ powershell
 php artisan serve dan npm run dev
 
 
-dan database ada di dalam folder yang huruf kapital
+dan database ada di dalam folder yang huruf kapital.
